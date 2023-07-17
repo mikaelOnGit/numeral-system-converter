@@ -107,7 +107,7 @@ def TypeMatch(input_sys, value):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description = "Basic positional numeral system converter",
-                                     formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+                                     formatter_class = argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument("input",
                         choices = ["dec", "bin", "hex", "oct"],
                         help = "Input numeral system (format: dec, bin, hex, oct)")

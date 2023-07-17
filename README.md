@@ -1,1 +1,1 @@
-# numeral-system-converter
+# numeric-system-converter

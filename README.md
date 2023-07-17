@@ -22,7 +22,7 @@
    python convert_numsys.py dec bin 17223
    ```
 
-   This command executes the python script with the positional arguments for decimal to binary conversion the last positional argument must be a number of the given input type (In this case decimal).
+   This command executes the python script with the positional arguments for decimal to binary conversion. Note: The last positional argument must be a number of the given input type (In this case decimal).
 
    > Argument 1 -> input "dec" (decimal)
 

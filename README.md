@@ -17,7 +17,11 @@
 ### Example: ###
 
    python convert_numsys.py dec bin 17223
+   
    > This command executes the python script with the positional arguments for decimal to binary conversion the last positional argument must be a number of the given input type (In this case decimal)
+
    > Argument 1 -> input "dec" (decimal)
+
    > Argument 2 -> output "bin" (binary)
+
    > Argument 3 -> value "17223"

@@ -2,6 +2,7 @@
 
 ### Usage: ###
 
+   ```
    usage: convert_numsys.py [-h] {dec,bin,hex,oct} {dec,bin,hex,oct} value
    
    Basic positional numeral system converter
@@ -13,11 +14,14 @@
    
    options:
      -h, --help         show this help message and exit
+   ```
 
 ### Example: ###
 
+   ```
    python convert_numsys.py dec bin 17223
-   
+   ```
+
    > This command executes the python script with the positional arguments for decimal to binary conversion the last positional argument must be a number of the given input type (In this case decimal)
 
    > Argument 1 -> input "dec" (decimal)
